@@ -15,9 +15,9 @@ public class calculation {
 	{
 		System.out.println("hello");
 	}
-	
-	public void test()
+	public void user1test()
 	{
-		System.out.println("i am testing user 2");
+		//hello let me commit
+		System.out.println("hello from user1");
 	}
 }
