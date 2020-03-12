@@ -15,4 +15,9 @@ public class calculation {
 	{
 		System.out.println("hello");
 	}
+	
+	public void test()
+	{
+		System.out.println("i am testing user 2");
+	}
 }
