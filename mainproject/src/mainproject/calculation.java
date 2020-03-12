@@ -11,4 +11,9 @@ public class calculation {
 	{
 		System.out.println(x-y);
 	}
+	
+	public void display()
+	{
+		System.out.println("hello");
+	}
 }
